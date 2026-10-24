@@ -1,5 +1,11 @@
-# Pano sürümleri
+# Pano
 
-Bu depoda yalnız Pano'nun yayınlanmış sürümleri durur; kaynak kodu burada değildir.
+Bu depoda yalnız Pano'nun kurulum dosyaları durur. Kaynak kodu burada değildir.
 
-Kurulu Pano yeni sürümü buradan kendisi bulur, imzasını doğrular ve kurar. Elle kurmak için son yayındaki `Pano.app.tar.gz` dosyasını indirip açın ve `Pano.app`'i Uygulamalar klasörüne taşıyın.
+**İndir:** [son sürüm](https://github.com/quantEray/releases/releases/latest)
+
+- Mac, Apple işlemcili (M1–M4): `Pano-Mac-Apple.dmg`
+- Mac, Intel işlemcili: `Pano-Mac-Intel.dmg`
+- Windows: `Pano-Windows-setup.exe`
+
+Pano kurulduktan sonra yeni sürümleri kendisi bulur, imzasını doğrular ve kurar.
